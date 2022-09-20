@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<!-- xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://quicklocks247.co.uk" xmlns:media="http://search.yahoo.com/mrss/" -->
+    <channel>
+        <title><![CDATA[ Locksmith Services ]]></title>
+        <link><![CDATA[ test-article-for-locksmith-services.html ]]></link>
+        <description><![CDATA[ Locksmith Services in London ]]></description>
+       <!--  <language>en</language> -->
+        <!-- <pubDate>Tue, 20 Sep 2022 19:08:03 UTC</pubDate> -->
+      <!--   <category>Blog</category> -->
+        <item><title><![CDATA[Test article for Locksmith Services]]></title><link>test-article-for-locksmith-services.html</link><description><![CDATA[{!! substr(Test article for lOcksmith Services<br>,3) !!}]]></description></item>
+    </channel>
+</rss>
